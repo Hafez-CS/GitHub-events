@@ -1,7 +1,5 @@
-<img width="957" alt="GH" src="https://user-images.githubusercontent.com/49915749/196942213-b763661c-63d8-40df-8ef8-47759561dddf.png">
-
-
 # GitHub Events
+![Monty Python](https://github.blog/wp-content/uploads/2020/12/102573561-8e872300-40a3-11eb-9feb-b480aeae0564.png?resize=1024%2C513)
 
 Connect and discuss conferences, meetups, and hackathons around the world with the GitHub Community.
 
